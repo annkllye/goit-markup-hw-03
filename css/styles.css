@@ -376,7 +376,7 @@ img {
     border-bottom: 1px solid #ECECEC;
     border-left: 1px solid #ECECEC;
     border-right: 1px solid #ECECEC;
-    padding-left: 24px;
+    padding: 20px 24px;
 }
 .portfolio .title {
     color: var(--secondary-text-color);
@@ -386,8 +386,8 @@ img {
     line-height: 2;
     letter-spacing: 0.06em;
 
-    margin-top: 20px;
-    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 4px;
 }
 
 .portfolio .text {
@@ -395,7 +395,7 @@ img {
     line-height: 1.88;
     color: var(--primary-text-color);
     margin-top: 4px;
-    margin-bottom: 20px;
+    margin: 0px;
 
 }
 
